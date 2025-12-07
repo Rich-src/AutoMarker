@@ -543,18 +543,18 @@ addToDefaultNpcsToMark(L["Naxxramas"], "plague_gargs1_pat", {
 })
 
 addToDefaultNpcsToMark(L["Naxxramas"], "plague_gargs1", {
-  ["0xF130003F2801581C"] = SKULL, -- stone1_right
-  ["0xF130003F2801581D"] = CROSS,
+  ["0xF130003F2801581C"] = CROSS, -- stone1_right
+  ["0xF130003F2801581D"] = SKULL,
 })
 
 addToDefaultNpcsToMark(L["Naxxramas"], "plague_gargs2", {
-  ["0xF130003F28015820"] = SKULL, -- stone2_right
-  ["0xF130003F28015821"] = CROSS,
+  ["0xF130003F28015820"] = CROSS, -- stone2_right
+  ["0xF130003F28015821"] = SKULL,
 })
 
 addToDefaultNpcsToMark(L["Naxxramas"], "plague_gargs3", {
-  ["0xF130003F28015822"] = SKULL, -- stone3_right
-  ["0xF130003F28015823"] = CROSS,
+  ["0xF130003F28015822"] = CROSS, -- stone3_right
+  ["0xF130003F28015823"] = SKULL,
 })
 
 addToDefaultNpcsToMark(L["Naxxramas"], "plague_ring_ghouls1", {
@@ -1397,8 +1397,8 @@ addToDefaultNpcsToMark(L["Molten Core"], "giants2", {
 
 addToDefaultNpcsToMark(L["Molten Core"], "lucifron", {
   ["0xF130002F5700DD1F"] = CROSS,
-  ["0xF130002F5600DD1D"] = SKULL,
-  ["0xF130002F5700DD1E"] = SQUARE,
+  ["0xF130002F5600DD1D"] = SQUARE, -- lucifron
+  ["0xF130002F5700DD1E"] = SKULL,
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "imp_surgers", {
