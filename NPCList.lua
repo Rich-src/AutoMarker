@@ -1502,9 +1502,9 @@ addToDefaultNpcsToMark(L["Molten Core"], "twin_golems", {
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_1", {
   ["0xF13000CBB7278CD2"] = DIAMOND, -- pat
-  ["0xF13000CBB6278CD3"] = SQUARE,
+  ["0xF13000CBB6278CD3"] = SKULL, -- guardian
   ["0xF13000CBB8278CD4"] = CROSS,
-  ["0xF13000CBB8278CD5"] = SKULL,
+  ["0xF13000CBB8278CD5"] = SQUARE,
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_2", {
@@ -1519,21 +1519,21 @@ addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_3", {
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_4", {
-  ["0xF13000CBB7278CDF"] = SKULL,
-  ["0xF13000CBB6278CE0"] = CROSS,
+  ["0xF13000CBB7278CDF"] = CROSS,
+  ["0xF13000CBB6278CE0"] = SKULL,
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_left_5", {
-  ["0xF13000CBB8278CC4"] = SKULL,
-  ["0xF13000CBB6278CC1"] = SQUARE,
-  ["0xF13000CBB8278CC3"] = CROSS,
-  ["0xF13000CBB6278CC2"] = MOON,
+  ["0xF13000CBB8278CC4"] = SQUARE,
+  ["0xF13000CBB6278CC1"] = SKULL, -- guardian
+  ["0xF13000CBB8278CC3"] = MOON,
+  ["0xF13000CBB6278CC2"] = CROSS, -- guardian
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_1", {
-  ["0xF13000CBB6278CB8"] = SQUARE,
-  ["0xF13000CBB8278CB7"] = SKULL, -- blazeweaver
-  ["0xF13000CBB6278CB9"] = CROSS,
+  ["0xF13000CBB6278CB8"] = SKULL, -- guardian
+  ["0xF13000CBB8278CB7"] = SQUARE, -- blazeweaver
+  ["0xF13000CBB6278CB9"] = CROSS, -- guardian
   ["0xF13000CBB6278CB3"] = DIAMOND, -- pat
 })
 
@@ -1554,10 +1554,10 @@ addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_4", {
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "shadowforge_right_5", {
-  ["0xF13000CBB6278CC0"] = MOON,
-  ["0xF13000CBB6278CBF"] = SQUARE,
-  ["0xF13000CBB7278CBD"] = CROSS,
-  ["0xF13000CBB7278CBE"] = SKULL,
+  ["0xF13000CBB6278CC0"] = CROSS, -- guardian
+  ["0xF13000CBB6278CBF"] = SKULL, -- guardian
+  ["0xF13000CBB7278CBD"] = MOON,
+  ["0xF13000CBB7278CBE"] = SQUARE,
 })
 
 addToDefaultNpcsToMark(L["Molten Core"], "domo", {
